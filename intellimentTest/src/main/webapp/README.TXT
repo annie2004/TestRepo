@@ -1,4 +1,4 @@
-DEMO: INTELLIMENTTEST / 06112016 / TIME WASTED: 18 HOURS BY @NA
+DEMO: INTELLIMENTTEST / 06112016 / TIME SPENT: 18 HOURS BY @NA
 
 Before run intellimentTest check:
 --------------------------------------------------------
